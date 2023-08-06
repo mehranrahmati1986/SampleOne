@@ -1,0 +1,15 @@
+D:\ChatGpt\ChatGpt\ChatGpt\obj\Release\net7.0\PubTmp\Out\ChatGpt.exe
+D:\ChatGpt\ChatGpt\ChatGpt\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+D:\ChatGpt\ChatGpt\ChatGpt\obj\Release\net7.0\PubTmp\Out\appsettings.json
+D:\ChatGpt\ChatGpt\ChatGpt\obj\Release\net7.0\PubTmp\Out\ChatGpt.dll
+D:\ChatGpt\ChatGpt\ChatGpt\obj\Release\net7.0\PubTmp\Out\ChatGpt.deps.json
+D:\ChatGpt\ChatGpt\ChatGpt\obj\Release\net7.0\PubTmp\Out\ChatGpt.runtimeconfig.json
+D:\ChatGpt\ChatGpt\ChatGpt\obj\Release\net7.0\PubTmp\Out\ChatGpt.pdb
+D:\ChatGpt\ChatGpt\ChatGpt\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+D:\ChatGpt\ChatGpt\ChatGpt\obj\Release\net7.0\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ChatGpt\ChatGpt\ChatGpt\obj\Release\net7.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\ChatGpt\ChatGpt\ChatGpt\obj\Release\net7.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\ChatGpt\ChatGpt\ChatGpt\obj\Release\net7.0\PubTmp\Out\OpenAI_API.dll
+D:\ChatGpt\ChatGpt\ChatGpt\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\ChatGpt\ChatGpt\ChatGpt\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ChatGpt\ChatGpt\ChatGpt\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
